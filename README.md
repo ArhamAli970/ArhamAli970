@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arhamali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arhamali" height="30" width="40" /></a>
+<a href="https://twitter.com/ArhamAl41786062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arhamali" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arham-ali-042118233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arham ali" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arham_9797" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arham_9797" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/crack_leet97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crack_leet97" height="30" width="40" /></a>
