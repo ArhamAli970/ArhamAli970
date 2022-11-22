@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arham Ali</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="200" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" alt="coding" width="150" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamali970&label=Profile%20views&color=0e75b6&style=flat" alt="arhamali970" /> </p>
 
