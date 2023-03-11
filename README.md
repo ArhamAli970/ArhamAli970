@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/arhamali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arhamali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arham ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arham ali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/crack_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crack_code" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/crack_code" target="blank"><img align="center" src="https://www.youtube.com/channel/UC-f1hRpccZODD1WA7JMBIvw" alt="crack_code" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arham_9797" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arham_9797" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@arhamali0012000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arhamali0012000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/crack_leet97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crack_leet97" height="30" width="40" /></a>
