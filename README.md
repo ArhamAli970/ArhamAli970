@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhamali970" alt="arhamali970" /></a> </p>
 
-- 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHMS, flask**
+- 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHMS, React JS**
 
 - 💬 Ask me about **HTML,CSS,JS,PHP,SQL,flask,**
 
