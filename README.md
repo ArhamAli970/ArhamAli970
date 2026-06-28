@@ -52,7 +52,6 @@ class ArhamAli():
         "Computer Vision",
         "Advanced Deep Learning",
         "Multimodal AI",
-        "Reinforcement Learning"
     ]
 
     fun_fact = "I love building AI that actually solves real-world problems."
@@ -110,7 +109,7 @@ class ArhamAli():
 
 <img src="https://skillicons.dev/icons?i=pytorch"/>
 
-<img src="https://skillicons.dev/icons?i=opencv"/>
+<!-- <img src="https://skillicons.dev/icons?i=opencv"/> -->
 
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 
@@ -120,7 +119,7 @@ class ArhamAli():
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<!-- <img src="https://skillicons.dev/icons?i=linux"/> -->
 
 </p>
 
@@ -160,9 +159,9 @@ class ArhamAli():
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<!-- <img src="https://skillicons.dev/icons?i=nodejs"/> -->
 
-<img src="https://skillicons.dev/icons?i=express"/>
+<!-- <img src="https://skillicons.dev/icons?i=express"/> -->
 
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 
@@ -176,9 +175,9 @@ class ArhamAli():
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
+<!-- <img src="https://skillicons.dev/icons?i=nextjs"/> -->
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<!-- <img src="https://skillicons.dev/icons?i=tailwind"/> -->
 
 </p>
 
@@ -192,7 +191,7 @@ class ArhamAli():
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
+<!-- <img src="https://skillicons.dev/icons?i=postgres"/> -->
 
 </p>
 
@@ -219,148 +218,6 @@ class ArhamAli():
 # 💡 Philosophy
 
 > **"Don't build AI that only chats. Build AI that can think, plan, retrieve knowledge, and solve real-world problems."**
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 Virtual Lab Assistant (Production AI @ TCS)
-
-> 🧠 LangGraph • Multi-Agent Systems • LLMs • Stateful Memory • Experiment Tracking
-
-🔹 AI assistant for genomics laboratories
-
-🔹 Multi-step reasoning workflows
-
-🔹 Autonomous experiment guidance
-
-🔹 Contextual memory
-
-🔹 Auto-generated laboratory documentation
-
-🔹 Increased workflow efficiency by **40%**
-
----
-
-## 📚 AI Resume Search Engine
-
-> Python • ChromaDB • SQL • Streamlit • Sentence Transformers • RAG
-
-🔹 Hybrid Retrieval-Augmented Generation
-
-🔹 SQL + Vector Search
-
-🔹 Semantic Candidate Search
-
-🔹 Async PDF Parsing
-
-🔹 LLM Ranking Engine
-
-🔹 Streamlit Dashboard
-
----
-
-## 📝 Topic Summarizer Agent
-
-> LangGraph • LangChain • OpenAI • Tavily • Pydantic
-
-🔹 Planning Agent
-
-🔹 Multi-Step Reasoning
-
-🔹 Real-time Web Search
-
-🔹 Parallel Execution
-
-🔹 Structured Blog Generation
-
----
-
-## 📩 Spam Message Classifier
-
-> NLP • Scikit-learn • Streamlit
-
-🔹 96% Validation Accuracy
-
-🔹 Real-time Predictions
-
-🔹 Render Deployment
-
----
-
-## ✋ Sign Language Detection (Currently Building)
-
-> Deep Learning • MediaPipe • TensorFlow • OpenCV
-
-🚧 Real-time Hand Tracking
-
-🚧 Gesture Recognition
-
-🚧 Character Prediction
-
-🚧 Word Formation
-
-🚧 Sentence Generation
-
----
-
-# 💼 Experience
-
-## 🤖 AI Engineer
-
-### Tata Consultancy Services
-
-📅 Jan 2025 - Present
-
-✔ Built Production AI Systems
-
-✔ LangGraph Orchestration
-
-✔ Multi-Agent Workflows
-
-✔ RAG Pipelines
-
-✔ LLM Reasoning
-
-✔ Experiment Memory
-
-✔ Text-to-SQL
-
-✔ Streamlit Applications
-
----
-
-## 👨‍🏫 Teaching Assistant (MERN)
-
-### Apna College
-
-📅 Nov 2023 - Mar 2024
-
-✔ Mentored 100+ Students
-
-✔ Code Reviews
-
-✔ Cloud Deployments
-
-✔ Full Stack Guidance
-
----
-
-# 🏆 Achievements
-
-🥇 AI Engineer @ TCS
-
-🏆 LeetCode Top 5%
-
-⭐ Max Rating **1823**
-
-🏅 Rank 426 (Biweekly Contest)
-
-👨‍🏫 Mentored 100+ Developers
-
-🚀 Built Multiple Production AI Systems
-
----
 
 # 📈 GitHub Analytics
 
@@ -470,23 +327,7 @@ Deploy
 Repeat 🔁
 ```
 
----
-
-# 🌟 Fun Fact
-
-```python
-while True:
-
-    Learn()
-
-    Build()
-
-    Deploy()
-
-    Repeat()
-```
-
----
+----
 
 <h3 align="center">
 
